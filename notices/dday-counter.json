@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-01",
+  "app_slug": "dday-counter",
+  "notices": [
+    {
+      "id": "welcome-2026-06-01",
+      "scope": "global",
+      "app_slug": null,
+      "status": "active",
+      "severity": "info",
+      "title": {
+        "en": "Welcome to Kohana Apps",
+        "ko": "Kohana Apps를 준비 중입니다",
+        "ja": "Kohana Apps の準備中です"
+      },
+      "body": {
+        "en": "This notice feed is used for lightweight app updates and operational notices.",
+        "ko": "이 공지 피드는 앱 업데이트와 운영 공지를 전달하기 위해 사용됩니다.",
+        "ja": "このお知らせフィードは、アプリ更新と運用通知に使用されます。"
+      },
+      "starts_at": "2026-06-01",
+      "ends_at": null,
+      "min_app_version": null,
+      "max_app_version": null,
+      "link_url": "https://kohana-dev.github.io/kohana-apps-legal/",
+      "requires_ack": false
+    }
+  ]
+}
